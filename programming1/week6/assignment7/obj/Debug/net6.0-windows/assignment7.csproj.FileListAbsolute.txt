@@ -1,0 +1,17 @@
+C:\Users\Inholland\Desktop\code\week6\assignment7\bin\Debug\net6.0-windows\assignment7.exe
+C:\Users\Inholland\Desktop\code\week6\assignment7\bin\Debug\net6.0-windows\assignment7.deps.json
+C:\Users\Inholland\Desktop\code\week6\assignment7\bin\Debug\net6.0-windows\assignment7.runtimeconfig.json
+C:\Users\Inholland\Desktop\code\week6\assignment7\bin\Debug\net6.0-windows\assignment7.dll
+C:\Users\Inholland\Desktop\code\week6\assignment7\bin\Debug\net6.0-windows\assignment7.pdb
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.csproj.AssemblyReference.cache
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.Form1.resources
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.csproj.GenerateResource.cache
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.AssemblyInfoInputs.cache
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.AssemblyInfo.cs
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.csproj.CoreCompileInputs.cache
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.dll
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\refint\assignment7.dll
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.pdb
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\assignment7.genruntimeconfig.cache
+C:\Users\Inholland\Desktop\code\week6\assignment7\obj\Debug\net6.0-windows\ref\assignment7.dll

@@ -1,0 +1,15 @@
+C:\Users\Inholland\Desktop\code\week6\testingField\bin\Debug\net6.0\testingField.exe
+C:\Users\Inholland\Desktop\code\week6\testingField\bin\Debug\net6.0\testingField.deps.json
+C:\Users\Inholland\Desktop\code\week6\testingField\bin\Debug\net6.0\testingField.runtimeconfig.json
+C:\Users\Inholland\Desktop\code\week6\testingField\bin\Debug\net6.0\testingField.dll
+C:\Users\Inholland\Desktop\code\week6\testingField\bin\Debug\net6.0\testingField.pdb
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\testingField.csproj.AssemblyReference.cache
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\testingField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\testingField.AssemblyInfoInputs.cache
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\testingField.AssemblyInfo.cs
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\testingField.csproj.CoreCompileInputs.cache
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\testingField.dll
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\refint\testingField.dll
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\testingField.pdb
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\testingField.genruntimeconfig.cache
+C:\Users\Inholland\Desktop\code\week6\testingField\obj\Debug\net6.0\ref\testingField.dll

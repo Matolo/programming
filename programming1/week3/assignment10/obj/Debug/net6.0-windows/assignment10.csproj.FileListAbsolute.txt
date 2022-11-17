@@ -1,0 +1,17 @@
+C:\Users\novak\Desktop\code\week3\assignment10\bin\Debug\net6.0-windows\assignment10.exe
+C:\Users\novak\Desktop\code\week3\assignment10\bin\Debug\net6.0-windows\assignment10.deps.json
+C:\Users\novak\Desktop\code\week3\assignment10\bin\Debug\net6.0-windows\assignment10.runtimeconfig.json
+C:\Users\novak\Desktop\code\week3\assignment10\bin\Debug\net6.0-windows\assignment10.dll
+C:\Users\novak\Desktop\code\week3\assignment10\bin\Debug\net6.0-windows\assignment10.pdb
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.csproj.AssemblyReference.cache
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.Form1.resources
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.csproj.GenerateResource.cache
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.AssemblyInfoInputs.cache
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.AssemblyInfo.cs
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.csproj.CoreCompileInputs.cache
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.dll
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\refint\assignment10.dll
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.pdb
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\assignment10.genruntimeconfig.cache
+C:\Users\novak\Desktop\code\week3\assignment10\obj\Debug\net6.0-windows\ref\assignment10.dll
