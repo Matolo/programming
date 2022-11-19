@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\bin\Debug\net6.0\assignment0.exe
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\bin\Debug\net6.0\assignment0.deps.json
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\bin\Debug\net6.0\assignment0.runtimeconfig.json
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\bin\Debug\net6.0\assignment0.dll
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\bin\Debug\net6.0\assignment0.pdb
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\assignment0.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\assignment0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\assignment0.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\assignment0.AssemblyInfo.cs
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\assignment0.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\assignment0.dll
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\refint\assignment0.dll
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\assignment0.pdb
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\assignment0.genruntimeconfig.cache
+C:\Users\PC\Desktop\brajgel\School\programming\programming2\week1\assignment1\obj\Debug\net6.0\ref\assignment0.dll
