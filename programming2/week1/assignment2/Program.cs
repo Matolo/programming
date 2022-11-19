@@ -11,18 +11,36 @@ namespace assignment2
         }
         void Start()
         {
-            PrintMonth(Months.January);
+            PrintMonths();
+            PrintMonth(ReadMonth("Enter a month number: "));
         }
-        void PrintMonth(Months month)
+        void PrintMonth(Month month)
         {
-            Console.WriteLine(month.ToString());
+            Console.WriteLine($"{(int)month} => {month.ToString()}");
         }
         void PrintMonths()
         {
-            for (Months i = Months.January; i < Months.December; i++)
+            for (Month i = Month.January; i < Month.December; i++)
             {
-                Console.WriteLine($"{(int)i:00} {i}");
+                Console.WriteLine(String.Format("{0, 5}{1, -1}", $"{(int)i}. ", i));
             }
+        }
+        Month ReadMonth(string question)
+        {
+            Console.WriteLine();
+            Console.Write(question);
+
+            int input = int.Parse(Console.ReadLine());
+            Month month = (Month)input;
+
+            while(!(Enum.IsDefined(typeof(Month), month)))
+            {
+                Console.WriteLine($"{input} is not a valid value.");
+                Console.Write(question);
+                input = int.Parse(Console.ReadLine());
+                month = (Month)input;
+            }
+            return month;
         }
     }
 }
