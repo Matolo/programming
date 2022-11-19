@@ -1,4 +1,6 @@
-﻿namespace assignment1
+﻿using System.Security.Principal;
+
+namespace assignment1
 {
     internal class Program
     {
@@ -7,37 +9,38 @@
             Program myProgram = new Program();
             myProgram.Start();
         }
-
         void Start()
         {
-            int value = ReadInt("Enter a value: ");
-            Console.WriteLine($"You entered {value}");
-
-            int age = ReadInt("How old are you? ", 0, 120);
-            Console.WriteLine($"You are {age} years old");
-
-            string name = ReadString("What is your name? ");
-            Console.WriteLine($"Nice meeting you {name}.");
+            PrintMonths();
+            PrintMonth(ReadMonth("Enter a month number: "));
         }
-        int ReadInt(string question)
+        void PrintMonth(Month month)
         {
+            Console.WriteLine($"{(int)month} => {month.ToString()}");
+        }
+        void PrintMonths()
+        {
+            for (Month i = Month.January; i < Month.December; i++)
+            {
+                Console.WriteLine(String.Format("{0, 5}{1, -1}", $"{(int)i}. ", i));
+            }
+        }
+        Month ReadMonth(string question)
+        {
+            Console.WriteLine();
             Console.Write(question);
+
             int input = int.Parse(Console.ReadLine());
-            return input;
-        }
-        int ReadInt(string question, int min, int max)
-        {
-            int input = ReadInt(question);
-            while (input < min || input > max)
-                input = ReadInt(question);
-            
-            return input;
-        }
-        string ReadString(string question) 
-        {
-            Console.Write(question);
-            string name = Console.ReadLine();
-            return name;
+            Month month = (Month)input;
+
+            while(!(Enum.IsDefined(typeof(Month), month)))
+            {
+                Console.WriteLine($"{input} is not a valid value.");
+                Console.Write(question);
+                input = int.Parse(Console.ReadLine());
+                month = (Month)input;
+            }
+            return month;
         }
     }
 }
