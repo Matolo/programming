@@ -1,4 +1,6 @@
-﻿namespace assignment0
+﻿using System;
+
+namespace assignment0
 {
     internal class Program
     {
@@ -30,10 +32,10 @@
             int input = ReadInt(question);
             while (input < min || input > max)
                 input = ReadInt(question);
-            
+
             return input;
         }
-        string ReadString(string question) 
+        string ReadString(string question)
         {
             Console.Write(question);
             string name = Console.ReadLine();

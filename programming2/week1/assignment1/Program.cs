@@ -1,4 +1,4 @@
-﻿using System.Security.Principal;
+﻿using System;
 
 namespace assignment1
 {
@@ -20,7 +20,7 @@ namespace assignment1
         }
         void PrintMonths()
         {
-            for (Month i = Month.January; i < Month.December; i++)
+            for (Month i = Month.January; i <= Month.December; i++)
             {
                 Console.WriteLine(String.Format("{0, 5}{1, -1}", $"{(int)i}. ", i));
             }
@@ -33,7 +33,7 @@ namespace assignment1
             int input = int.Parse(Console.ReadLine());
             Month month = (Month)input;
 
-            while(!(Enum.IsDefined(typeof(Month), month)))
+            while (!(Enum.IsDefined(typeof(Month), month)))
             {
                 Console.WriteLine($"{input} is not a valid value.");
                 Console.Write(question);
