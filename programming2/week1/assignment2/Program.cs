@@ -61,7 +61,7 @@ namespace assignment2
         }
         Person ReadPerson()
         {
-            Person person = new Person();
+            Person person;
 
             person.FirstName = ReadString("Enter first name: ");
             person.LastName = ReadString("Enter last name: ");

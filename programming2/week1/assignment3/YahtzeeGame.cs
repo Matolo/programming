@@ -11,18 +11,18 @@ namespace assignment3
             {
                 dices[i] = new Dice();
             }
-            
+
         }
         public void Throw()
         {
-            for (int i = 0; i<5; i++)
+            for (int i = 0; i < 5; i++)
             {
                 dices[i].Throw();
             }
         }
         public void DisplayValues()
         {
-            for (int i  = 0; i < 5; i++)
+            for (int i = 0; i < 5; i++)
             {
                 dices[i].DisplayValue();
             }
@@ -30,9 +30,9 @@ namespace assignment3
         }
         public bool Yahtzee()
         {
-            for (int i = 0; i< 4; i++)
+            for (int i = 0; i < 4; i++)
             {
-                if (dices[i].value != dices[i+1].value)
+                if (dices[i].value != dices[i + 1].value)
                     return false;
             }
             return true;

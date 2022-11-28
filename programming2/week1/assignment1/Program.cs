@@ -16,13 +16,14 @@ namespace assignment1
         }
         void PrintMonth(Month month)
         {
-            Console.WriteLine($"{(int)month} => {month.ToString()}");
+            Console.WriteLine(month);
         }
         void PrintMonths()
         {
             for (Month i = Month.January; i <= Month.December; i++)
             {
-                Console.WriteLine(String.Format("{0, 5}{1, -1}", $"{(int)i}. ", i));
+                Console.Write($"{(int)i}. ");
+                PrintMonth(i);
             }
         }
         Month ReadMonth(string question)
@@ -40,6 +41,7 @@ namespace assignment1
                 input = int.Parse(Console.ReadLine());
                 month = (Month)input;
             }
+            Console.Write($"{(int)month} => ");
             return month;
         }
     }
