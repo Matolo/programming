@@ -22,8 +22,6 @@ namespace assignment1
         {
             int[,] matrix = new int[numberOfRows, numberOfColumns];
             InitMatrix2D(matrix);
-            DisplayMatrix(matrix);
-            Console.WriteLine();
             DisplayMatrixWithCross(matrix); 
         }
         void InitMatrix2D(int[,] matrix)
