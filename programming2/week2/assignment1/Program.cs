@@ -53,7 +53,7 @@ namespace assignment1
         {
             //this is very confusing assignment, get back to it later
 
-            for (int i = 0; i < 2; i++)
+            for (int i = 0; i < matrix.GetLength(0) * matrix.GetLength(1); i++)
             {
                 
             }
