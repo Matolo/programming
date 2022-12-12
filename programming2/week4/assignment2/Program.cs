@@ -1,17 +1,31 @@
-﻿namespace assignment2
+﻿using System.IO;
+
+namespace assignment2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            if (args.Length != 1)
+            {
+                Console.WriteLine("invalid number of arguments!");
+                Console.WriteLine("usage: assignment[2-3] <filename>");
+                return;
+            }
+            string filename = args[0];
+
             Program myProgram = new Program();
-            myProgram.Start();
+            myProgram.Start(filename);
         }
-        void Start()
+        void Start(string filename)
         {
             HangmanGame hangman = new HangmanGame();
-            List<string> words = ListOfWords();
-            hangman.secretWord = SelectWord(words);
+            List<string> words = ListOfWords(filename);
+            do
+            {
+                hangman.secretWord = SelectWord(words);
+            } while (hangman.secretWord.Length <= 3);
+
             hangman.Init(hangman.secretWord);
             Console.WriteLine($"The secret word is: {hangman.secretWord}");
             if (PlayHangman(hangman))
@@ -21,30 +35,15 @@
             
 
         }
-        List<String> ListOfWords()
+        List<String> ListOfWords(string filename)
         {
 
             List<String> list = new List<String>();
-            list.Add("airplane");
-            list.Add("kitchen");
-            list.Add("building");
-            list.Add("incredible");
-            list.Add("funny");
-            list.Add("trainstation");
-            list.Add("neighbour");
-            list.Add("different");
-            list.Add("department");
-            list.Add("planet");
-            list.Add("presentation");
-            list.Add("embarrassment");
-            list.Add("integration");
-            list.Add("scenario");
-            list.Add("discount");
-            list.Add("management");
-            list.Add("understanding");
-            list.Add("registration");
-            list.Add("security");
-            list.Add("language");
+            StreamReader reader = new StreamReader(filename);
+            while (!reader.EndOfStream)
+            {
+                list.Add(reader.ReadLine());
+            }
 
             return list;
         }
@@ -69,10 +68,12 @@
                 enteredLetters.Add(userEnteredLetter);
                 blacklist.Add(userEnteredLetter);
                 DisplayLetters(enteredLetters);
+
                 if (hangman.ContainsLetter(userEnteredLetter))
                     hangman.ProcessLetter(userEnteredLetter);
                 else
                     nrOfAttempts--;
+
                 Console.WriteLine($"\nAttempts left: {nrOfAttempts}");
                 Console.WriteLine();
                 DisplayWord(hangman.guessedWord);
