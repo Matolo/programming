@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\assignment2\\assignment2.csproj": {}
+    "Z:\\Documents\\School\\programming\\programming2\\week5\\assignment2\\assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\assignment2\\assignment2.csproj": {
+    "Z:\\Documents\\School\\programming\\programming2\\week5\\assignment2\\assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\assignment2\\assignment2.csproj",
+        "projectUniqueName": "Z:\\Documents\\School\\programming\\programming2\\week5\\assignment2\\assignment2.csproj",
         "projectName": "assignment2",
-        "projectPath": "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\assignment2\\assignment2.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\assignment2\\obj\\",
+        "projectPath": "Z:\\Documents\\School\\programming\\programming2\\week5\\assignment2\\assignment2.csproj",
+        "packagesPath": "C:\\Users\\martin\\.nuget\\packages\\",
+        "outputPath": "Z:\\Documents\\School\\programming\\programming2\\week5\\assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj"
+              "Z:\\Documents\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj": {
+                "projectPath": "Z:\\Documents\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj"
               }
             }
           }
@@ -63,24 +63,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj": {
+    "Z:\\Documents\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj",
+        "projectUniqueName": "Z:\\Documents\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj",
         "projectName": "CandyCrushLogic",
-        "projectPath": "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\brajgel\\School\\programming\\programming2\\week5\\CandyCrushLogic\\obj\\",
+        "projectPath": "Z:\\Documents\\School\\programming\\programming2\\week5\\CandyCrushLogic\\CandyCrushLogic.csproj",
+        "packagesPath": "C:\\Users\\martin\\.nuget\\packages\\",
+        "outputPath": "Z:\\Documents\\School\\programming\\programming2\\week5\\CandyCrushLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -122,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
