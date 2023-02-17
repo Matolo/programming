@@ -24,7 +24,7 @@ namespace assignment1
        
         public void Print()
         {
-            Console.WriteLine($"Name: {this.name}, Speciality:  {this.speciality}");
+            Console.WriteLine($"Name: {this.name}, Specialty:  {this.speciality}");
         }
     }
 }
