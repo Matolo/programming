@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\bin\Debug\net6.0\assignment1.exe
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\bin\Debug\net6.0\assignment1.deps.json
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\bin\Debug\net6.0\assignment1.runtimeconfig.json
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\bin\Debug\net6.0\assignment1.dll
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\bin\Debug\net6.0\assignment1.pdb
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\assignment1.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\assignment1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\assignment1.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\assignment1.AssemblyInfo.cs
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\assignment1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\assignment1.dll
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\refint\assignment1.dll
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\assignment1.pdb
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\assignment1.genruntimeconfig.cache
+\\Mac\Home\Documents\School\programming\programming3\week2\assignment1\obj\Debug\net6.0\ref\assignment1.dll
